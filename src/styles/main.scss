@@ -1,11 +1,7 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-}
-
 @import "./utils/variables";
 @import "./utils/mixins";
 @import "./utils/function";
+@import "./utils/_normolise.scss";
 @import "./blocks/page";
 @import "./blocks/header";
 @import "./blocks/product";
